@@ -20,6 +20,7 @@ I'm a computational biologist, currently holding a Chancellor's Fellow (lecturer
   - 🐘 Mastodon: @widdowquinn@mstdn.science
   - 👨🏻‍🔬 Work: https://www.strath.ac.uk/staff/pritchardleightondr/
   - 🥳 Group: https://sipbs-compbiol.github.io/
+  - 👾 Group GitHub: https://github.com/sipbs-compbiol
 
 --------
 
