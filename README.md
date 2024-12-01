@@ -16,7 +16,7 @@ I'm a computational biologist, currently holding a Chancellor's Fellow (lecturer
   - PhD studentships
 - 📫 How to reach me:
   - 📧 Email: [leighton.pritchard@strath.ac.uk](mailto:leighton.pritchard@strath.ac.uk)
-  - 🐦 Twitter: [@widdowquinn](https://twitter.com/widdowquinn)
+  - 🐦 Bluesky: [@widdowquinn.bsky.social](https://bsky.app/profile/widdowquinn.bsky.social)
   - 🐘 Mastodon: [@widdowquinn@mstdn.science](https://mstdn.science/@widdowquinn)
   - 👨🏻‍🔬 Work: https://www.strath.ac.uk/staff/pritchardleightondr/
   - 🥳 Group: https://sipbs-compbiol.github.io/
