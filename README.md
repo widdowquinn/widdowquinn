@@ -49,3 +49,7 @@ I'm a computational biologist, currently holding a Chancellor's Fellow (lecturer
 [![Github stats](https://github-readme-stats.vercel.app/api?username=widdowquinn&hide=prs&show_icons=true&include_all_commits=true&count_private=true&theme=merko&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=widdowquinn&show_icons=true&layout=compact&langs_count=6&theme=merko&count_private=merko&bg_color=00000000&hide=html,clarion,jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=widdowquinn&theme=merko&bg_color=00000000)](https://git.io/streak-stats)
+
+----------
+
+![EFF Membership Badge, 2024](2024_member_badge.png)
