@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a computational biologist, currently holding a Chancellor's Fellow (lecturer) position in the Institute of Pharmacy and Biomedical Sciences (SIPBS), at the University of Strathclyde. I lead the [SIPBS Computational Biology group](https://sipbs-compbiol.github.io/).
+I'm a computational biologist, currently working as a Senior Lecturer (US equiv. Associate Professor) in the Institute for Pharmacy and Biomedical Sciences (SIPBS), at the University of Strathclyde. I lead the [SIPBS Computational Biology group](https://sipbs-compbiol.github.io/).
 
 ### Areas of Interest
 
