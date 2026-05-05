@@ -54,3 +54,4 @@ I'm a computational biologist, currently holding a Chancellor's Fellow (lecturer
 ----------
 
 ![EFF Membership Badge, 2024](2024_member_badge.png)
+![EFF Membership Badge, 2025](2025-member.png)
