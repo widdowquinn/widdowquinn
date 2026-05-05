@@ -46,7 +46,10 @@ I'm a computational biologist, currently working as a Senior Lecturer (US equiv.
 
 ----------
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![widdowquinn's Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=widdowquinn&type=top-repos&theme=github)
+![widdowquinn's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=widdowquinn&theme=github&chart=bars)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=widdowquinn&theme=dark)](https://git.io/streak-stats)
 
 ----------
 
